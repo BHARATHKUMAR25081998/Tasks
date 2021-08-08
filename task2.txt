@@ -1,0 +1,19 @@
+3.Execute the below code and write your description in txt file
+        1. typeof(1)
+		integer
+        2. typeof(1.1)
+		float-decimal
+        3. typeof('1.1')
+		string
+        4. typeof(true)
+		boolean
+        5. typeof(null)
+		empty or junk
+        6. typeof(undefined)
+		not defined
+        7. typeof([])
+		array
+        8. typeof({})
+		JSON
+        9. typeof(NaN)
+		not a number
